@@ -4,7 +4,7 @@ email: rami@mstdfr.com
 url: http://middleeastpodcastforum.com
 description: "Website for the first annual Middle East Podcast Forum"
 keywords: "podcast, middle east, entertainment, forum"
-tagline: "Hit That Record Button!"
+tagline: "29-9-2018<br>Hit That Record Button!"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -58,7 +58,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Mstdfr Podcasting, Kerning Cultures, Dukkan Show, and Anghami'
 
 # Build settings
 markdown: kramdown
