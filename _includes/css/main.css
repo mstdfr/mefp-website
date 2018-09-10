@@ -455,3 +455,15 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Custom css by Rami */
+
+.text-center {
+  text-align: center;
+}
+
+#about .icon {
+  font-size: 90px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
