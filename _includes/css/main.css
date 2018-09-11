@@ -515,3 +515,24 @@ table-bordered > thead > tr > th, .table-bordered > thead > tr > th, table-borde
 header {
   background-image: url('../../img/oriental.png') 
 }
+
+@media only screen 
+and (max-device-width: 410px)
+and (min-device-width : 268px){
+  .navbar-default .navbar-brand {
+    font-size: 12px;
+  }
+  header .img-responsive {
+    margin-top: 15px;
+  }
+}
+
+@media only screen 
+and (max-device-width: 290px){
+  .navbar-default .navbar-brand {
+    font-size: 9px;
+  }
+  header .img-responsive {
+    margin-top: 15px;
+  }
+}
