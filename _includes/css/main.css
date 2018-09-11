@@ -42,7 +42,7 @@ hr.star-primary {
     padding: 0;
     max-width: 250px;
     border: 0;
-    border-top: solid 5px;
+    border-top: solid 3px;
     text-align: center;
     overflow: visible;
 }
@@ -58,13 +58,17 @@ hr.star-primary:after {
     font-size: 2em;
 }
 
+hr.star-light:after {
+    content: "";
+}
+
 hr.star-light {
     border-color: #fff;
 }
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: rgba(239, 83, 80, .12);
 }
 
 hr.star-primary {
