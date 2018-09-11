@@ -28,7 +28,7 @@ contact: static
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: EF5350
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "24,288,156" 
   secondary: 37474F
   secondary-dark: 263238
 
@@ -45,6 +45,8 @@ social:
     url: http://twitter.com/mepodcastforum
   - title: instagram
     url: http://instagram.com/mepodcastforum
+  - title: mail
+    url : mailto:rami@mstdfr.com
     #- title: facebook
     #url:
     #- title: stack-overflow
