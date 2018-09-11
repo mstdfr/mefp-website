@@ -482,4 +482,28 @@ footer .footer-below {
   margin-top: 10px;
 }
 
+.table-hover > tbody > tr:hover > td, .table-hover > tbody > tr:hover > th {
+  color: #{{site.color.primary}};
+  background-color: white;
+}
 
+#agenda table {
+  margin-top: 30px;
+  border: none;
+}
+
+#agenda thead th {
+  font-size: 1.2em;
+  text-align: center;
+  padding: 17px 0;
+  background-color: #{{site.color.secondary}};
+  border: none;
+}
+
+table-bordered > thead > tr > th, .table-bordered > thead > tr > th, table-bordered > tbody > tr > th, .table-bordered > tbody > tr > th, table-bordered > tfoot > tr > th, .table-bordered > tfoot > tr > th, table-bordered > thead > tr > td, .table-bordered > thead > tr > td, table-bordered > tbody > tr > td, .table-bordered > tbody > tr > td, table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > td {
+  border-bottom: 1px solid rgba(255,255,255,.2) !important;
+}
+
+table-bordered > thead > tr > th, .table-bordered > thead > tr > th, table-bordered > tbody > tr > th, .table-bordered > tbody > tr > th, table-bordered > tfoot > tr > th, .table-bordered > tfoot > tr > th, table-bordered > thead > tr > td, .table-bordered > thead > tr > td, table-bordered > tbody > tr > td, .table-bordered > tbody > tr > td, table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > td {
+  border: none;
+}
