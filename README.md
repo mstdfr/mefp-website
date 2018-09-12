@@ -11,5 +11,9 @@ And then visit localhost `http://127.0.0.1:4000`
 ## Live Site 
 View the website [here](http://mepodcastforum.com)
 
+## Screnshot
+
+![screenshot](https://raw.githubusercontent.com/mstdfr/mepf-website/master/screenshot.png)
+
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
