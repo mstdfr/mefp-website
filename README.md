@@ -13,7 +13,7 @@ View the website [here](http://mepodcastforum.com)
 
 ## Screnshot
 
-![screenshot](https://raw.githubusercontent.com/mstdfr/mepf-website/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/mstdfr/mefp-website/master/screenshot.png)
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
