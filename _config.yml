@@ -47,6 +47,8 @@ social:
     url: http://instagram.com/mepodcastforum
   - title: envelope-o
     url : mailto:rami@mstdfr.com
+  - title: github
+    url: https://github.com/mstdfr/mefp-website
     #- title: facebook
     #url:
     #- title: stack-overflow
