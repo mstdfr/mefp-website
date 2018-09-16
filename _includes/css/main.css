@@ -492,8 +492,12 @@ footer .footer-below {
 }
 
 #agenda table {
-  margin-top: 30px;
   border: none;
+  margin: 0 auto;
+}
+
+#agenda .table-main {
+  margin-top: 30px;
 }
 
 #agenda thead th {
@@ -502,6 +506,12 @@ footer .footer-below {
   padding: 17px 0;
   background-color: #{{site.color.secondary}};
   border: none;
+}
+
+#agenda td,
+#agenda th {
+  vertical-align: middle;
+  text-align: center;
 }
 
 table-bordered > thead > tr > th, .table-bordered > thead > tr > th, table-bordered > tbody > tr > th, .table-bordered > tbody > tr > th, table-bordered > tfoot > tr > th, .table-bordered > tfoot > tr > th, table-bordered > thead > tr > td, .table-bordered > thead > tr > td, table-bordered > tbody > tr > td, .table-bordered > tbody > tr > td, table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > td {
