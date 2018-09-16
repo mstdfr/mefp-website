@@ -553,6 +553,10 @@ and (min-device-width : 268px){
     border-left: none !important;
     border-right: none !important;
   }
+
+  tr:last-child {
+    border-bottom: 2px solid white;
+  }
   
   td { 
     /* Behave  like a "row" */
