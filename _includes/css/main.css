@@ -547,7 +547,10 @@ and (min-device-width : 268px){
     left: -9999px;
   }
   
-  tr { border: 1px solid #fff; }
+  tr {
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+  }
   
   td { 
     /* Behave  like a "row" */
