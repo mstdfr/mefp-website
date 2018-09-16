@@ -550,6 +550,8 @@ and (min-device-width : 268px){
   tr {
     border-bottom: 1px solid #fff;
     border-top: 1px solid #fff;
+    border-left: none !important;
+    border-right: none !important;
   }
   
   td { 
