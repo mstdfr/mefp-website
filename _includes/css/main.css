@@ -638,6 +638,11 @@ and (max-device-width: 767px){
     opacity: 1;
 }
 
+/* Turn off hover on mobile */
+#bio .bio-item .bio-link .caption:active {
+    opacity: 0;
+}
+
 #bio .bio-item .bio-link .caption .caption-content {
     position: absolute;
     top: 50%;
