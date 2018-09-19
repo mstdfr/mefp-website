@@ -508,6 +508,10 @@ footer .footer-below {
   border: none;
 }
 
+#agenda tr {
+  font-size: 10px !important;
+}
+
 #agenda td,
 #agenda th {
   vertical-align: middle;
@@ -629,7 +633,7 @@ and (max-device-width: 290px){
     left: -9999px;
   }
   
-  tr { border: 1px solid #fff; font-size: 10px}
+  tr { border: 1px solid #fff;}
   
   td { 
     /* Behave  like a "row" */
