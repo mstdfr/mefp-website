@@ -629,7 +629,7 @@ and (max-device-width: 290px){
     left: -9999px;
   }
   
-  tr { border: 1px solid #fff; }
+  tr { border: 1px solid #fff; font-size: 10px}
   
   td { 
     /* Behave  like a "row" */
