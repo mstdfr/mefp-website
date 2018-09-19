@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+date: 2018-09-05
+img: ed-clowes.jpg
+alt: image-alt
+talk: Marketing & Growing your Audience
+from: Dirhams & Dollars Podcast
+website: https://gulfnews.com/business/money/dirhams-dollars/
+description: Ed is a business journalist for Gulf News, reporting on the retail and hotel sectors. He co-founded, and continue to co-host, the Dirhams & Dollars podcast. A weekly business podcast from Gulf News, featuring news, analysis, and deeper discussions on the stories shaping the Middle East and the world.
+
+
+
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 12
+date: 2018-09-12
+img: omar-tom.jpg 
+alt: image-alt
+talk: Starting a Podcast
+from: Dukkan Media
+website: http://dukkanshow.com
+description: Omar Tom, commonly known as OT, is a businessman, creative brand strategist, guest lecturer, and public speaker. OT is the Founder & Managing Partner at Dukkan Media, a multi-platform company that aims to set the benchmark for regional storytelling. A unique piece in the publishing and content landscape. He currently guest lectures at the American University in Dubai (AUD). His expertise extend to building unique, purposeful brands. The driving force behind the Dukkan Show and creating its deep, culturally rooted identity, which was a natural extension to his post-radio career.  OT is a graduate of both AUD & Miami Ad School.
+
+
+---

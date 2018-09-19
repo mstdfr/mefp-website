@@ -1,0 +1,29 @@
+
+    <!-- bio Grid Section -->
+    <section id="bio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Speakers & Panelists</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {% for post in site.posts reversed %}
+                    <div class="col-sm-4 bio-item">
+                        <a href="#bioModal-{{ post.modal-id }}" class="bio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <div>
+                              <img src="img/bio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            </div>
+                        </a>
+                              <h5 class="image-title">{{ post.title }}</h5>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
