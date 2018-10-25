@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 14
 date: 2018-09-14
 img: rami-zeidan.jpg 

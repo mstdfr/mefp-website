@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 7
 date: 2018-09-07
 img: hebah-fisher.jpg 

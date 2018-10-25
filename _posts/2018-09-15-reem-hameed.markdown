@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 15
 date: 2018-09-15
 img: reem-hameed.jpg 

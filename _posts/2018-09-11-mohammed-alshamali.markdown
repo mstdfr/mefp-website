@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 11
 date: 2018-09-11
 img: mohammed-alshamali.jpg 

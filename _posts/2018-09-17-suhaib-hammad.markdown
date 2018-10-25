@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 17
 date: 2018-09-17
 img: suhaib-hammad.jpg 

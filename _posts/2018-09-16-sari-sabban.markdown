@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 16
 date: 2018-09-16
 img: sari-sabban.jpg 

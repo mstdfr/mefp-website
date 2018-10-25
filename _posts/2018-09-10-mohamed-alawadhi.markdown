@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 10
 date: 2018-09-10
 img: mohamed-alawadhi.jpg 

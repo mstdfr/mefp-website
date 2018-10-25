@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 1
 date: 2018-09-01
 img: ahmed-alrashed.jpg

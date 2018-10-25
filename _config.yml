@@ -71,3 +71,7 @@ credits: 'Mstdfr Podcasting, Kerning Cultures, Dukkan Show, and Anghami'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  photo_gallery:
+

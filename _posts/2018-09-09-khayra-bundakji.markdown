@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 9
 date: 2018-09-09
 img: khayra-bundakji.jpg

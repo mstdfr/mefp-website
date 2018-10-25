@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 3
 date: 2018-09-03
 img: basel-anabtawi.jpg 

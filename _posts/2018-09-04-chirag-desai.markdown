@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 4
 date: 2018-09-04
 img: chirag-desai.jpg 

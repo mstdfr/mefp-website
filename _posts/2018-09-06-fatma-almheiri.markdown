@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 6
 date: 2018-09-06
 img: fatma-almheiri.jpg

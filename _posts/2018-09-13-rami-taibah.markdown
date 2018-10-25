@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 13
 date: 2018-09-13
 img: rami-taibah.jpg 

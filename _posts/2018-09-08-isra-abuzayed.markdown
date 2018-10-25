@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 8
 date: 2018-09-08
 img: isra-abuzayed.jpg 

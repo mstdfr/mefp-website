@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 12
 date: 2018-09-12
 img: omar-tom.jpg 

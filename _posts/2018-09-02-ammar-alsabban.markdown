@@ -1,5 +1,6 @@
 ---
 layout: default
+type: bio
 modal-id: 2
 date: 2018-09-02
 img: ammar-alsabban.jpg
