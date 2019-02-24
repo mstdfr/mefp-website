@@ -750,6 +750,6 @@ and (max-device-width: 767px){
 }
 
 /** Newsletter Page **/
-
-#newsletter-page{
+#newsletter-page h4 {
+  margin-top: 25px;
 }
