@@ -71,6 +71,10 @@ hr.star-light:after {
     background-color: rgba(239, 83, 80, .12);
 }
 
+#tagline {
+  margin-bottom: 40px;
+}
+
 hr.star-primary {
     border-color: #{{ site.color.secondary }};
 }
