@@ -116,6 +116,11 @@ header .location {
   margin: 35px;
 }
 
+header .btn {
+  background-color: #EF5350;
+  border-color: #EF5350;
+}
+
 header .location .map-link {
   color: white;
   background: ;
@@ -573,6 +578,7 @@ table-bordered > thead > tr > th, .table-bordered > thead > tr > th, table-borde
 header, #register {
   background-image: url('../../img/oriental-2.png') 
 }
+
 
 @media only screen 
 and (max-device-width: 767px){
