@@ -112,6 +112,14 @@ header .intro-text .name {
     font-weight: 700;
 }
 
+header .sponsors {
+  margin-top: 50px;
+}
+
+header .sponsors div {
+  padding: 50px;
+}
+
 header .intro-text .tagline {
     font-size: 1.25em;
     font-weight: 300;
@@ -135,6 +143,8 @@ header .intro-text .tagline {
     header .date, header .location {
       font-size: 1.1em;
     }
+
+
 }
 
 @media(min-width:768px) {
