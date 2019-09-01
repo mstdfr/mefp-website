@@ -118,7 +118,6 @@ header .location {
 
 header .location .map-link {
   color: white;
-  background: ;
   padding: 9px;
 }
 
