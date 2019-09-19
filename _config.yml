@@ -27,8 +27,8 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: EF5350
-  primary-rgb: "239, 83, 80"
+  primary: 2BADAA
+  #primary-rgb: "239, 83, 80"
   secondary: 37474F
   secondary-dark: 263238
 
