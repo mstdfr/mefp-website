@@ -1,7 +1,7 @@
 ---
 layout: default
 type: gallery
-img: IMG_0082.JPG
+img: /2018/IMG_0082.JPG
 title: Girl Power 
 modal-id: 26
 ---

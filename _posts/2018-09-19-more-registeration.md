@@ -1,8 +1,8 @@
 ---
 layout: default
 type: gallery
-img: IMG_0002.JPG
-title: More Registration 
+img: /2018/IMG_0002.JPG
+itle: More Registration 
 modal-id: 18
 ---
 

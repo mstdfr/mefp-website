@@ -1,7 +1,7 @@
 ---
 layout: default
 type: gallery
-img: IMG_0011.JPG
+img: /2018/IMG_0011.JPG
 title: Registration 
 modal-id: 33
 ---
