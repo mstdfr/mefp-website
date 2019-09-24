@@ -9,5 +9,5 @@ alt: image-alt
 talk:
 from: AR Podcast
 website: www.ar-podcast.com 
-description: 
+description: Founder of Podcast Arabic an initiative that aims to promote podcasting in the Arab World and the maker of Tiar podcast. 
 ---

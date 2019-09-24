@@ -6,8 +6,9 @@ date: 2019-09-01
 year: 2019
 img: rami_taibah_mstdfr_publishing_company.jpg
 alt: image-alt
-talk:
-from:
-website: 
-description: 
+talk: The Business Case of Podcasts
+from: Mstdfr Publishing Company
+website: http://mstdfr.com 
+description: Cofounder of Mstdfr Podcasting Network. Designer. Technologist. Podcaster.  
+
 ---
