@@ -7,8 +7,8 @@ year: 2019
 img: molham_krayem_kraytiv_entertainment_group.jpg
 alt: image-alt
 talk: Disrupters of Other Industries
-from:
-website: 
+from: Kraytiv Entertainment
+website: https://www.kraytiv.com/ 
 description: "Known for his thought-provoking lyrics and eccentric blend of English + عربي, Molham is a rising hip-hop artist from Jeddah, Saudi Arabia.
 
 He launched his debut EP The Time Is Yesterday in March of 2018, with features from Egyptian starlet Malak El-Husseiny and Minneapolis-native Yusra J. The project serves as a window into his thoughts on regret, manifestation, and mood swings. The EP's breakout single Me Against the World hit the top hip-hop charts in the Middle East & North Africa, trending across 7 different countries.
