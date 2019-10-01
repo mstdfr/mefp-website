@@ -9,5 +9,6 @@ alt: image-alt
 talk: Podcast Horror Stories 
 from: Alkora M3na 
 website: https://twitter.com/AlkoraM3na
-description: 
+description: A passionate football fanatic, an avid traveler, an MBA graduate, and Podcaster. Co-founder of AlkoraM3na Podcast. A Senior Business Development Specialist at Takamol Holding, has a Master of Business Administration Degree from the University of Baltimore and holds a Bachelor of Administrative Sciences degree in Financial Management from King Saud University.
+
 ---

@@ -10,4 +10,5 @@ talk: How to Grow your Listening Audience
 from: When Women Win
 website: https://whenwomenwinpodcast.com/ 
 description: Rana Nawas is a 17-year corporate veteran turned speaker and podcaster, on a mission to help women win. She does this through inspiring keynotes, strategic advisory and her podcast, When Women Win - a show where female role models from diverse backgrounds share inspirational stories and practical tools for success.
+
 ---

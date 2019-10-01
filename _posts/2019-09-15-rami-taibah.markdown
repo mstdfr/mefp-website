@@ -9,6 +9,6 @@ alt: image-alt
 talk: The Business Case of Podcasts
 from: Mstdfr Publishing Company
 website: http://mstdfr.com 
-description: Cofounder of Mstdfr Podcasting Network. Designer. Technologist. Podcaster.  
+description: "Co-founder of Mstdfr Publishing Company. Designer, Technologist & Podcaster with over a decade of experience in various marketing disciplines: Advertising, retail, direct marketing, web, & social media. A UC Berkeley graduate who’s Highly versed in web technologies & have a deep understanding of the opportunities the web can provide and the challenges it faces." 
 
 ---

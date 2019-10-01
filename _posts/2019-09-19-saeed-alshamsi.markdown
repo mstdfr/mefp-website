@@ -9,8 +9,6 @@ alt: image-alt
 talk: Podcast Horror Stories
 from: Root Quest
 website: http://rootquest.net 
-description: "A curious human being and the host of RootQuest & OffQuest podcasts. After 5 years of podcasting, now he's \"Vagabonding\" all over the UAE in a quest to share the knowledge of podcasting and record a new line of podcast productions.
-
-P.S. Saeed loves podcasting that he recorded a podcast with his wife the day they got married."
+description: A curious human being and the host of RootQuest & OffQuest podcasts. After 5 years of podcasting, now he's "Vagabonding" all over the UAE in a quest to share the knowledge of podcasting and record a new line of podcast productions." P.S. Saeed loves podcasting that he recorded a podcast with his wife the day they got married."
 
 ---

@@ -9,5 +9,6 @@ alt: image-alt
 talk: The Art of the Interview
 from: Kerning Cultures
 website: https://kerningcultures.com 
-description: Alex is the English Managing Producer for Kerning Cultures Network. graduated from Falmouth University in the UK in 2014 and worked as a photojournalist in the UAE and UK for four years after that, shooting for people like the The New York Times, The Guardian and Monocle. In 2016, he started experimenting with audio storytelling, and joined Kerning Cultures in 2018.
+description: Alex is the English Managing Producer for Kerning Cultures Network. graduated from Falmouth University in the UK in 2014 and worked as a photojournalist in the UAE and UK for four years after that, shooting for people like the The New York Times, The Guardian and Monocle. In 2016, he started experimenting with audio storytelling.
+
 ---
