@@ -7,8 +7,8 @@ year: 2019
 img: abdulaziz_almoaiqel_alkoora_ma3na.jpg 
 alt: image-alt
 talk: Podcast Horror Stories 
-from: Alkora M3na 
+from: AlkoraM3na 
 website: https://twitter.com/AlkoraM3na
-description: A passionate football fanatic, an avid traveler, an MBA graduate, and Podcaster. Co-founder of AlkoraM3na Podcast. A Senior Business Development Specialist at Takamol Holding, has a Master of Business Administration Degree from the University of Baltimore and holds a Bachelor of Administrative Sciences degree in Financial Management from King Saud University.
+description: "A passionate football fanatic, an avid traveler, an MBA graduate, and Podcaster. Co-founder of AlkoraM3na Podcast. A Senior Business Development Specialist at Takamol Holding, has a Master of Business Administration Degree from the University of Baltimore and holds a Bachelor of Administrative Sciences degree in Financial Management from King Saud University."
 
 ---
