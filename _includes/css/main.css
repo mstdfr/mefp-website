@@ -164,8 +164,25 @@ header .intro-text .tagline {
         font-size: 1.75em;
     }
 
-    header .date, header .location {
+    header .date, header .location, header .podcast, header .yt-playlist {
       font-size: 1.1em;
+    }
+
+    header .header-links {
+      padding: 20px;
+      list-style-type: none;
+      display: inline-flex;
+    }
+
+    header .header-links a {
+      color: white;
+      margin-right: 30px;
+      text-decoration: underline;
+      font-size: 22px;
+    }
+    header .header-links i {
+      margin-right: 5px;
+      font-size: 26px;
     }
 
 
